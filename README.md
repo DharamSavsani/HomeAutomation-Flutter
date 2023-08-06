@@ -5,6 +5,13 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This whole project has created for Education purpose.
+This Application has no connection or integration with real life devices.
+
+## Back-End
+
+Back-End of this application using ExpressJS.
+ -[Click here for Back-End code.](https://github.com/DharamSavsani/HomeAutomation-BackEnd)
 
 A few resources to get you started if this is your first Flutter project:
 
